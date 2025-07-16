@@ -3,8 +3,8 @@
 A full-stack AI chatbot that reads any uploaded PDF and answers user questions based on its content using Cohere’s LLM API.
 
 🔗 **Live Demo:**
-- **Frontend:** https://genai-chatbot.vercel.app  
-- **Backend:** https://genai-chatbot.onrender.com
+- **Frontend:** https://genai-chatbot-delta.vercel.app/  
+- **Backend:** https://genai-chatbot-hql9.onrender.com
 
 ---
 
