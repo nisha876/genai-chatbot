@@ -1,4 +1,4 @@
-const BACKEND_URL = "http://localhost:5000"; // Or use deployed backend link
+const BACKEND_URL = "https://genai-chatbot-hql9.onrender.com";  // ✅ update this
 
 export async function uploadPDF(file) {
   const formData = new FormData();
